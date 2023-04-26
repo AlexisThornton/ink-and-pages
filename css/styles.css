@@ -1564,38 +1564,7 @@ nav ul li{
 }
 }
 
-@media (max-width: 1199px){
- nav ul{ 
-  width: 700px;
-  font-size: 17px;
-}
-
-nav ul li{
-  margin: 5px 10px;
-}
-
-.team-card{
-  width: 175px;
-  padding: 0;
-}
-
-.team-card p{
-  margin: 0;
-  font-size: 12px;
-}
-
-.team-card h3{
-  font-size: 15px;
-  margin: 0;
-}
-
-.team-card #team-desc{
-  display: none;
-
-}
-}
-
-@media (max-width:800px){
+@media (max-width:999px){
   #navbar{
     display: flex;
     flex-direction: column;
