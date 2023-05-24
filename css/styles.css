@@ -1541,7 +1541,7 @@ nav ul > li > a {
 
 /*Media Queries*/
 
-@media (min-width: 1200px){
+@media (min-width: 1000px){
   header{
     padding: 12px 3%;
   }
@@ -1572,6 +1572,11 @@ nav ul li{
   box-shadow: 2px 2px 30px rgba(0, 0, 0, .2);
   overflow: hidden;
 
+}
+    
+    .slide-img img{
+  padding: 5px;
+  width: 90%;
 }
 }
 
