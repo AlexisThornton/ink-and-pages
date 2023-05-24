@@ -1541,7 +1541,7 @@ nav ul > li > a {
 
 /*Media Queries*/
 
-@media (max-width: 1200px){
+@media (min-width: 1200px){
   header{
     padding: 12px 3%;
   }
